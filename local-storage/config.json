@@ -1,0 +1,9 @@
+{
+  "endpoint": "127.0.0.1:9000",
+  "access_key": "localadmin",
+  "secret_key": "ChangeMinioPassword123",
+  "secure": false,
+  "bucket": "vulnerable-apks",
+  "file_size_bytes": 2048,
+  "output_dir": "generated-apks"
+}
